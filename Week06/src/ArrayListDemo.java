@@ -30,6 +30,8 @@ public class ArrayListDemo {
 		System.out.println("the size of the arraylist " + names.size());
 		System.out.println(names);
 		System.out.println("the element of the arraylist  at 2 " + names.get(2));
+		
+		System.out.println("This is test 1");
 
 	}
 
